@@ -1,0 +1,18 @@
+.Home__CarrouselContainer {
+    max-height: 25%;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.firstCarousel {
+    width: 25%;
+}
+
+.secondCarousel {
+    height: 100%;
+    width: 70%;
+}

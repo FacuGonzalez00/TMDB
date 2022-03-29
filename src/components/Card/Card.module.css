@@ -1,0 +1,28 @@
+.Home__CardSimpleView {
+    width: 15em;
+    height: 35em;
+    padding-left: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.CardDetailView {
+    width: 25em;
+    height: 40em;
+    padding-left: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Card_InfoDetail {
+    color: antiquewhite;
+}
+.imageDetail {
+    max-width: 19em;
+    max-height: 25em;
+    padding-top: 20px;
+}

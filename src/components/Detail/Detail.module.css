@@ -1,0 +1,13 @@
+.container__Card {
+    max-width: 100%;
+    display: flex;
+    margin: 50px auto;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.acordeon {
+    width: 66%;
+}
